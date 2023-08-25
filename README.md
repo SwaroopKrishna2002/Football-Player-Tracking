@@ -23,3 +23,4 @@ A computer vision based project that uses "YOLO" object detection series and "By
 * Roboflow: https://roboflow.com/
 * Roboflow Universe for open source datasets: https://universe.roboflow.com/
 * https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-track-football-players.ipynb
+* https://github.com/SkalskiP
