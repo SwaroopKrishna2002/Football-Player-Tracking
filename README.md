@@ -20,3 +20,6 @@ A computer vision based project that uses "YOLO" object detection series and "By
 * Kaggle-DFL Bundesliga Data Shootout: https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data
 * Roboflow Notebooks: https://github.com/roboflow/notebooks
 * NVIDIA CUDA Toolkit: https://developer.nvidia.com/cuda-toolkit
+* Roboflow: https://roboflow.com/
+* Roboflow Universe for open source datasets: https://universe.roboflow.com/
+* https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-track-football-players.ipynb
