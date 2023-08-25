@@ -13,6 +13,7 @@ A computer vision based project that uses "YOLO" object detection series and "By
 * Dependencies: Install the required libraries as specified in the requirements.txt files.
 
 
+# Links and References
 
 * YOLOv5 GitHub Repository: https://github.com/ultralytics/yolov5
 * ByteTrack Repository: https://github.com/ifzhang/ByteTrack
